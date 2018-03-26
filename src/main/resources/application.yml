@@ -1,0 +1,6 @@
+inputServiceDataSource:
+  db:
+    driverClassName: "org.hsqldb.jdbc.JDBCDriver"
+    url: "jdbc:hsqldb:mem:."
+    user: "sa"
+    pw: 
